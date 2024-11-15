@@ -1,0 +1,151 @@
+,Railway_station_Name,Name_in_marathi,Railway_line,Fast_Train_Halt,Long_Distance
+0,Airoli,ऐरोली,Trans-Harbour Line,N,Y
+1,Aman Lodge,अमन लॉज,Matheran Hill Railway,N,Y
+2,Ambarnath,अंबरनाथ,Central Line,Y,Y
+3,Ambivli,आंबिवली,Central Line,N,Y
+4,Andheri,अंधेरी,Western LineHarbour LineLine 1 (Mumbai Metro),Y,Y
+5,Apta,आपटा,Vasai Road–Roha line,N,Y
+6,Asangaon,आसनगाव,Central Line,Y,Y
+7,Atgaon,आटगाव,Central Line,N,Y
+8,Badlapur,बदलापूर,Central Line,Y,Y
+9,Bamandongri,बामणडोंगरी,Port Line,N,Y
+10,Bandra,वांद्रे,Western LineHarbour Line,Y,N
+11,Bhandup,भांडुप,Central Line,Y,N
+12,Bhayandar,भाईंदर,Western Line,Y,Y
+13,Bhivpuri Road,भिवपुरी रोड,Central Line,N,Y
+14,Bhiwandi Road,भिवंडी रोड,Vasai Road–Roha line,N,Y
+15,Boisar,बोईसर,Western Line,N,Y
+16,Borivali,बोरीवली,Western LineHarbour Line (under construction),Y,N
+17,Byculla,भायखळा,Central Line,Y,N
+18,CBD Belapur,सीबीडी बेलापूर,Harbour LinePort LineLine 1 (Navi Mumbai Metro),N,Y
+19,Charni Road,चर्नी रोड,Western Line,N,N
+20,Chembur,चेंबूर,Harbour LineLine 1 (Mumbai Monorail),N,N
+21,Chhatrapati Shivaji Maharaj Terminus,छत्रपती शिवाजी महाराज टर्मिनस,Central LineHarbour Line,Y,N
+22,Chikhale,चिखले,Central Line,N,Y
+23,Chinchpokli,चिंचपोकळी,Central Line,N,N
+24,Chouk,चौक,Central Line,N,Y
+25,Chunabhatti,चुनाभट्टी,Harbour Line,N,N
+26,Churchgate,चर्चगेट,Western Line,Y,N
+27,Cotton Green,कॉटन ग्रीन,Harbour Line,N,N
+28,Currey Road,करी रोड,Central Line,N,N
+29,Dadar,दादर,Central LineWestern Line,Y,Y
+30,Dahanu Road,डहाणू रोड,Western Line,N,Y
+31,Dahisar,दहिसर,Western Line,N,N
+32,Dativali,दातिवली,Vasai Road–Roha line,N,Y
+33,Digha Gaon,दिघा गाव,Trans-Harbour Line,N,Y
+34,Diva Junction,दिवा जंक्शन,Central LineVasai Road–Roha line,Y,Y
+35,Dockyard Road,डॉकयार्ड रोड,Harbour Line,N,N
+36,Dolavli,डोळवली,Central Line,N,Y
+37,Dombivli,डोंबिवली,Central Line,Y,Y
+38,Dronagiri,द्रोणागिरी,Port Line,N,Y
+39,Ghansoli,घणसोली,Trans-Harbour Line,N,Y
+40,Ghatkopar,घाटकोपर,Central LineLine 1 (Mumbai Metro),Y,N
+41,Goregaon,गोरेगाव,Western LineHarbour Line,N,N
+42,Govandi,गोवंडी,Harbour Line,N,N
+43,Grant Road,ग्रँट रोड,Western Line,N,N
+44,Guru Tegh Bahadur Nagar,गुरु तेग बहादूर नगर,Harbour Line,N,N
+45,Hamrapur,हमरापूर,Vasai Road–Roha line,N,Y
+46,Jite,जिते,Vasai Road–Roha line,N,Y
+47,Jogeshwari,जोगेश्वरी,Western LineHarbour Line,N,N
+48,Juchandra,जुचंद्र,Vasai Road–Roha line,N,Y
+49,Juinagar,जुईनगर,Harbour LineTrans-Harbour Line,N,Y
+50,Jummapatti,जुम्मापट्टी,Matheran Hill Railway,N,Y
+51,Kalamboli,कळंबोली,Vasai Road–Roha line,N,Y
+52,Kalwa,कळवा,Central Line,N,Y
+53,Kalyan Junction,कल्याण जंक्शन,Central Line,Y,Y
+54,Kaman Road,कामण रोड,Vasai Road–Roha line,N,Y
+55,Kandivli,कांदिवली,Western LineHarbour Line (under construction),N,N
+56,Kanjur Marg,कांजुर मार्ग,Central Line,N,N
+57,Karjat,कर्जत,Central Line,Y,Y
+58,Kasara,कसारा,Central Line,Y,Y
+59,Kasu,कासू,Vasai Road–Roha line,N,Y
+60,Kelavli,केळवली,Central Line,N,Y
+61,Kelve Road,केळवे रोड,Western Line,N,Y
+62,Khadavli,खडवली,Central Line,N,Y
+63,Khandeshwar,खांदेश्वर,Harbour Line,N,Y
+64,Khar Road,खार रोड,Western LineHarbour Line,N,N
+65,Kharbav,खारबाव,Vasai Road–Roha line,N,Y
+66,Khardi,खर्डी,Central Line,N,Y
+67,Kharghar,खारघर,Harbour LineLine 1 (Navi Mumbai Metro),N,Y
+68,Kharkopar,खारकोपर,Port Line,N,Y
+69,Khopoli,खोपोली,Central Line,Y,Y
+70,King's Circle,किंग्ज सर्कल,Harbour Line,N,N
+71,Kopar,कोपर,Central LineVasai Road–Roha line,N,Y
+72,Koparkhairane,कोपरखैरणे,Trans-Harbour Line,N,Y
+73,Kurla,कुर्ला,Central LineHarbour Line,Y,N
+74,Lower Parel,लोअर परळ,Western Line,N,N
+75,Lowjee,लौजी,Central Line,N,Y
+76,Mahalaxmi,महालक्ष्मी,Western Line,N,N
+77,Mahim Junction,माहिम जंक्शन,Western LineHarbour Line,N,N
+78,Malad,मालाड,Western LineHarbour Line (under construction),N,N
+79,Mankhurd,मानखुर्द,Harbour Line,N,N
+80,Mansarovar,मानसरोवर,Harbour Line,N,Y
+81,Marine Lines,मरीन लाइन्स,Western Line,N,N
+82,Masjid,मशीद,Central LineHarbour Line,N,N
+83,Matheran,माथेरान,Matheran Hill Railway,N,Y
+84,Matunga,माटुंगा,Central Line,N,N
+85,Matunga Road,माटुंगा रोड,Western Line,N,N
+86,Mira Road,मीरा रोड,Western Line,N,Y
+87,Mohope,मोहोपे,Central Line,N,Y
+88,Mulund,मुलुंड,Central Line,Y,N
+89,Mumbai Central,मुंबई सेंट्रल,Western Line,Y,Y
+90,Mumbra,मुंब्रा,Central Line,N,Y
+91,Nagothane,नागोठणे,Vasai Road–Roha line,N,Y
+92,Nahur,नाहूर,Central Line,N,N
+93,Naigaon,नायगाव,Western Line,N,Y
+94,Nallasopara,नालासोपारा,Western Line,N,Y
+95,Navde Road,नावडे रोड,Vasai Road–Roha line,N,Y
+96,Neral Junction,नेरळ जंक्शन,Central LineMatheran Hill Railway,Y,Y
+97,Nerul,नेरुळ,Harbour LineTrans-Harbour LinePort Line,N,Y
+98,Nhava Sheva,न्हावा शेवा,Port Line,N,Y
+99,Nidi,निडी,Vasai Road–Roha line,N,Y
+100,Nilaje,निळजे,Vasai Road–Roha line,N,Y
+101,Palasdari,पळसधरी,Central Line,N,Y
+102,Palghar,पालघर,Western Line,N,Y
+103,Panvel,पनवेल,Harbour LineVasai Road–Roha line,N,Y
+104,Parel,परळ,Central Line,N,N
+105,Pen,पेण,Vasai Road–Roha line,N,Y
+106,Prabhadevi,प्रभादेवी,Western Line,N,N
+107,Rabale,रबाळे,Trans-Harbour Line,N,Y
+108,Ram Mandir,राम मंदिर,Western LineHarbour Line,N,N
+109,Ranjanpada,रांजणपाडा,Port Line,N,Y
+110,Rasayani,रसायनी,Vasai Road–Roha line,N,Y
+111,Reay Road,रे रोड,Harbour Line,N,N
+112,Roha,रोहे,Vasai Road–Roha line,N,Y
+113,Sandhurst Road,सँडहर्स्ट रोड,Central LineHarbour Line,N,N
+114,Sanpada,सानपाडा,Harbour LineTrans-Harbour Line,N,Y
+115,Santacruz,सांताक्रुझ,Western LineHarbour Line,N,N
+116,Saphale,सफाळे,Western Line,N,Y
+117,Seawoods–Darave,सीवूड्स–दारावे,Harbour LinePort Line,N,Y
+118,Sewri,शिवडी,Harbour Line,N,N
+119,Shahad,शहाड,Central Line,N,Y
+120,Shelu,शेलू,Central Line,N,Y
+121,Sion,शीव,Central Line,N,N
+122,Somatne,सोमटणे,Vasai Road–Roha line,N,Y
+123,Taloje Panchnand,तळोजे पांचनंद,Vasai Road–Roha line,N,Y
+124,Thakurli,ठाकुर्ली,Central Line,N,Y
+125,Thane,ठाणे,Central LineTrans-Harbour Line,Y,Y
+126,Thansit,तानशेत,Central Line,N,Y
+127,Tilak Nagar,टिळक नगर,Harbour Line,N,N
+128,Titwala,टिटवाळा,Central Line,Y,Y
+129,Turbhe,तुर्भे,Trans-Harbour Line,N,Y
+130,Ulhasnagar,उल्हासनगर,Central Line,N,Y
+131,Umbermali,उंबरमाळी,Central Line,N,Y
+132,Umroli,उमरोळी,Western Line,N,Y
+133,Uran,उरण,Port Line,N,Y
+134,Vaitarna,वैतरणा,Western Line,N,Y
+135,Vangani,वांगणी,Central Line,N,Y
+136,Vangaon,वाणगाव,Western Line,N,Y
+137,Vasai Road,वसई रोड,Western LineVasai Road–Roha line,Y,Y
+138,Vashi,वाशी,Harbour LineTrans-Harbour Line,N,Y
+139,Vasind,वाशिंद,Central Line,N,Y
+140,Vidyavihar,विद्याविहार,Central Line,N,N
+141,Vikhroli,विक्रोळी,Central Line,Y,N
+142,Vile Parle,विलेपार्ले,Western LineHarbour Line,N,N
+143,Virar,विरार,Western Line,Y,Y
+144,Vithalwadi,विठ्ठलवाडी,Central Line,N,Y
+145,Wadala Road,वडाळा रोड,Harbour LineLine 1 (Mumbai Monorail),N,N
+146,Water Pipe,वॉटर पाईप,Matheran Hill Railway,N,Y
+147,Gavan,गव्हाण,Port Line,N,Y
+148,Sagar Sangam,सागरसंगम,Port Line,N,Y
+149,Targhar,तरघर,Port Line,N,Y
